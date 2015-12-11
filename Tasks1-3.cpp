@@ -3,7 +3,6 @@
 #include <opencv2\highgui.hpp>
 #include <string.h>
 #include <iostream>
-#include <boost\filesystem.hpp>
 
 using namespace std;
 using namespace cv;
