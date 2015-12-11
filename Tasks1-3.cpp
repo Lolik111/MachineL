@@ -65,7 +65,7 @@ void CounterW3(const string& in, const string& out){
 
 int main(){
 	try{
-		CounterW3("C:\\Users\\œ¿’¿–‹\\Desktop\\Kappasaurus Rekt.jpg", "C:\\Users\\œ¿’¿–‹\\Desktop\\Kappasaurus RektJuekt.jpg");
+		CounterW3("C:\\Users\\√è√Ä√ï√Ä√ê√ú\\Desktop\\Kappasaurus Rekt.jpg", "C:\\Users\\√è√Ä√ï√Ä√ê√ú\\Desktop\\Kappasaurus RektJuekt.jpg");
 	}
 	catch (Exception e){
 		cout << e.err;
