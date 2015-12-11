@@ -61,7 +61,7 @@ int main(){
 	try{
 		CascadeClassifier cc("haarcascade_frontalface_alt.xml");
 		Task4 t(cc);
-		t.DoWork("C:\\Users\\œ¿’¿–‹\\Desktop\\HUIHUIHUI.avi");
+		t.DoWork("C:\\Users\\√è√Ä√ï√Ä√ê√ú\\Desktop\\myvid.avi");
 	}
 	catch (Exception e){
 		cout << e.err;
