@@ -6,7 +6,6 @@
 
 using namespace std;
 using namespace cv;
-using namespace boost::filesystem;
 
 void CounterW(const string& in, const string& out){
 	Mat img = cv::imread(in);
